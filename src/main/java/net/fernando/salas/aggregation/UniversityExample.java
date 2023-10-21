@@ -1,4 +1,4 @@
-package net.fernando.salas.composition;
+package net.fernando.salas.aggregation;
 
 import java.util.ArrayList;
 import java.util.List;
