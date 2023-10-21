@@ -73,7 +73,7 @@ class Member {
 public class LibrarySystem {
     public static void main(String[] args) {
         Library library = new Library("Boston Public Library");
-        
+
         Book book1 = new Book("Introduction to Java");
         Book book2 = new Book("Data Structures and Algorithms in Java");
         Book book3 = new Book("Effective Java");
